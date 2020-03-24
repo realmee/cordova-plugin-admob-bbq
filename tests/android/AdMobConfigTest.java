@@ -1,4 +1,4 @@
-package name.ratson.cordova.admob;
+package com.realmee.cordova.admob;
 
 import android.util.Log;
 

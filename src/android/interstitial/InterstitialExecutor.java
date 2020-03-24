@@ -1,4 +1,4 @@
-package name.ratson.cordova.admob.interstitial;
+package com.realmee.cordova.admob.interstitial;
 
 import android.util.Log;
 
@@ -9,9 +9,9 @@ import org.apache.cordova.CordovaInterface;
 import org.apache.cordova.PluginResult;
 import org.json.JSONObject;
 
-import name.ratson.cordova.admob.AbstractExecutor;
-import name.ratson.cordova.admob.AdMob;
-import name.ratson.cordova.admob.AdMobConfig;
+import com.realmee.cordova.admob.AbstractExecutor;
+import com.realmee.cordova.admob.AdMob;
+import com.realmee.cordova.admob.AdMobConfig;
 
 public class InterstitialExecutor extends AbstractExecutor {
     /**
